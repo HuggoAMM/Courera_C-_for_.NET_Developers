@@ -1,0 +1,15 @@
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.exe
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.deps.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.runtimeconfig.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\bin\Debug\net7.0\coreConsoleProject.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.csproj.AssemblyReference.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.AssemblyInfoInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.AssemblyInfo.cs
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\refint\coreConsoleProject.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\coreConsoleProject.genruntimeconfig.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-1\coreConsoleProject\obj\Debug\net7.0\ref\coreConsoleProject.dll
