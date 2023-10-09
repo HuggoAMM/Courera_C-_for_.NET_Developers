@@ -1,0 +1,14 @@
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\bin\Debug\net6.0\exampleClass.exe
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\bin\Debug\net6.0\exampleClass.deps.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\bin\Debug\net6.0\exampleClass.runtimeconfig.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\bin\Debug\net6.0\exampleClass.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\bin\Debug\net6.0\exampleClass.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\exampleClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\exampleClass.AssemblyInfoInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\exampleClass.AssemblyInfo.cs
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\exampleClass.csproj.CoreCompileInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\exampleClass.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\refint\exampleClass.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\exampleClass.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\exampleClass.genruntimeconfig.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-2\exampleClass\exampleClass\obj\Debug\net6.0\ref\exampleClass.dll

@@ -35,10 +35,10 @@
 
 ##### Crear Proyecto
 
-> > dotnet new list
-> > dotnet new console -n coreConsoleProject
-> > dotnet build
-> > dotnet run
+- dotnet new list
+- dotnet new console -n coreConsoleProject
+- dotnet build
+- dotnet run
 
 #### .NET Core Framework
 
@@ -46,3 +46,12 @@
 - Roslyn:compilador de c# y visual basic
 - CoreFX: proporciona un conjunto de frameworks
 - CoreCLR: es un componente de la plataforma .NET Core que proporciona el entorno de ejecución para las aplicaciones .NET Core.
+
+### Programación orientada a objetos:
+
+- Clases: La estructura utilizando métodos y propiedades que se asemejan a la entidad del mundo real.[Capos, propiedades, metodos]
+- Objetos: Es el principal componente importante que ayuda a acceder a los miembros de la clase. Son instancias de la clase que contienen diferentes datos en campos de propiedades y tambien pueden interactuar con otros objetos.
+- Encapsulación: Ocultación de datos. Se necesita abstraerlos con ayuda de modificadores de acceso.
+- Abstracción: Modificadores de acceso: publicos, privados protegidos e internos
+- Herencia: Reutilización de datos
+- Polimorfismo: Signidica una interfaz, multiples funciones donde una misma operación se va a realizar en diferentes entidades.
