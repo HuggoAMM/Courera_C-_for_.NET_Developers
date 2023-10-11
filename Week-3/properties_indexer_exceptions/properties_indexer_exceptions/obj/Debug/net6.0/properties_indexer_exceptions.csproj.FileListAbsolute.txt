@@ -1,0 +1,14 @@
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\bin\Debug\net6.0\properties_indexer_exceptions.exe
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\bin\Debug\net6.0\properties_indexer_exceptions.deps.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\bin\Debug\net6.0\properties_indexer_exceptions.runtimeconfig.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\bin\Debug\net6.0\properties_indexer_exceptions.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\bin\Debug\net6.0\properties_indexer_exceptions.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\properties_indexer_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\properties_indexer_exceptions.AssemblyInfoInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\properties_indexer_exceptions.AssemblyInfo.cs
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\properties_indexer_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\properties_indexer_exceptions.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\refint\properties_indexer_exceptions.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\properties_indexer_exceptions.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\properties_indexer_exceptions.genruntimeconfig.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\properties_indexer_exceptions\properties_indexer_exceptions\obj\Debug\net6.0\ref\properties_indexer_exceptions.dll

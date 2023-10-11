@@ -1,0 +1,14 @@
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\bin\Debug\net6.0\example.exe
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\bin\Debug\net6.0\example.deps.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\bin\Debug\net6.0\example.runtimeconfig.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\bin\Debug\net6.0\example.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\bin\Debug\net6.0\example.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\example.AssemblyInfoInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\example.AssemblyInfo.cs
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\example.csproj.CoreCompileInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\example.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\refint\example.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\example.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\example.genruntimeconfig.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\example\example\obj\Debug\net6.0\ref\example.dll

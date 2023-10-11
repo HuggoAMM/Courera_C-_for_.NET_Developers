@@ -1,0 +1,14 @@
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\bin\Debug\net6.0\StaticClass_Method.exe
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\bin\Debug\net6.0\StaticClass_Method.deps.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\bin\Debug\net6.0\StaticClass_Method.runtimeconfig.json
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\bin\Debug\net6.0\StaticClass_Method.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\bin\Debug\net6.0\StaticClass_Method.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\StaticClass_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\StaticClass_Method.AssemblyInfoInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\StaticClass_Method.AssemblyInfo.cs
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\StaticClass_Method.csproj.CoreCompileInputs.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\StaticClass_Method.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\refint\StaticClass_Method.dll
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\StaticClass_Method.pdb
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\StaticClass_Method.genruntimeconfig.cache
+C:\Users\hugo.machorro\Desktop\Coursera_CSharp_for_.NET_Developers\Week-3\StaticClass_Method\StaticClass_Method\obj\Debug\net6.0\ref\StaticClass_Method.dll
